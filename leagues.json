@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "generatedAt": "2026-11-01T17:01:07+00:00",
+ "leagues": [
+  {
+   "name": "Forbidden Rites",
+   "slug": "forbidden-rites",
+   "file": "forbidden-rites.json"
+  },
+  {
+   "name": "Runes of Aldur",
+   "slug": "runes-of-aldur",
+   "file": "runes-of-aldur.json"
+  },
+  {
+   "name": "HC Forbidden Rites",
+   "slug": "hc-forbidden-rites",
+   "file": "hc-forbidden-rites.json"
+  },
+  {
+   "name": "HC Runes of Aldur",
+   "slug": "hc-runes-of-aldur",
+   "file": "hc-runes-of-aldur.json"
+  },
+  {
+   "name": "Standard",
+   "slug": "standard",
+   "file": "standard.json"
+  }
+ ],
+ "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
+}

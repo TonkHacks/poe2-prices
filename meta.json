@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "updated": "2026-11-01",
+ "items": [
+  {
+   "baseType": "Bombard Crossbow",
+   "kind": "base",
+   "archetype": "Granadas con ballesta"
+  },
+  {
+   "baseType": "Runeforged Bombard Crossbow",
+   "kind": "base",
+   "archetype": "Granadas con ballesta"
+  }
+ ]
+}
