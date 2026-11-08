@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-08T13:26:49+00:00",
+ "generatedAt": "2026-11-08T19:42:28+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
@@ -16,6 +16,11 @@
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json"
+  },
+  {
+   "name": "HC Runes of Aldur",
+   "slug": "hc-runes-of-aldur",
+   "file": "hc-runes-of-aldur.json"
   },
   {
    "name": "Standard",
