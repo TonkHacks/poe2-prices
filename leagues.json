@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-09T22:23:29+00:00",
+ "generatedAt": "2026-11-10T07:20:35+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
@@ -18,14 +18,14 @@
    "file": "hc-forbidden-rites.json"
   },
   {
+   "name": "HC Runes of Aldur",
+   "slug": "hc-runes-of-aldur",
+   "file": "hc-runes-of-aldur.json"
+  },
+  {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json"
-  },
-  {
-   "name": "Hardcore",
-   "slug": "hardcore",
-   "file": "hardcore.json"
   }
  ],
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
