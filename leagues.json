@@ -1,46 +1,46 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-13T14:44:33+00:00",
+ "generatedAt": "2026-11-13T14:56:30+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   },
   {
    "name": "Hardcore",
    "slug": "hardcore",
    "file": "hardcore.json",
-   "updatedAt": "2026-11-13T14:44:33+00:00"
+   "updatedAt": "2026-11-13T14:56:30+00:00"
   }
  ],
  "exchange": {
-  "error": "ExchangeIdError: Exchange refused hour 1794578400 (HTTP 404) although its history starts at 1733511600"
+  "error": "HTTPError: HTTP Error 404: Not Found"
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
