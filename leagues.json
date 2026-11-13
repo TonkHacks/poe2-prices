@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-12T19:55:26+00:00",
+ "generatedAt": "2026-11-13T01:50:34+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
@@ -26,6 +26,11 @@
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json"
+  },
+  {
+   "name": "Hardcore",
+   "slug": "hardcore",
+   "file": "hardcore.json"
   }
  ],
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
