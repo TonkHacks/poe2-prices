@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-14T10:28:15+00:00",
+ "generatedAt": "2026-11-14T18:04:00+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-14T10:28:15+00:00"
+   "updatedAt": "2026-11-14T18:04:00+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-14T10:28:15+00:00"
+   "updatedAt": "2026-11-14T18:04:00+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-14T10:28:15+00:00"
+   "updatedAt": "2026-11-14T18:04:00+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "updatedAt": "2026-11-14T10:28:15+00:00"
+   "updatedAt": "2026-11-14T18:04:00+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-14T10:28:15+00:00"
+   "updatedAt": "2026-11-14T18:04:00+00:00"
   },
   {
    "name": "Hardcore",
@@ -41,14 +41,14 @@
   }
  ],
  "exchange": {
-  "named": 217,
-  "skipped": 294,
+  "named": 216,
+  "skipped": 304,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
    "BurningMonolithKey2",
    "BurningMonolithKey3",
-   "CarvedTenacity",
+   "CarvedMischief",
    "CurrencyAfflictionFragment",
    "CurrencyBreachFragment",
    "CurrencyIncursionVaalIncubator",
@@ -74,18 +74,18 @@
    "IdolSpecial6",
    "IdolSpecial7",
    "IdolStoat",
+   "MothersoulEgg",
    "MothersoulEmbryo",
    "OmenOnAbyssGuarenteeLichTypeMod1",
    "OmenOnAbyssGuarenteeLichTypeMod2",
    "OmenOnAbyssGuarenteeLichTypeMod3",
    "OmenOnChaosLowestLevelMod",
    "OmenOnChaosMapMonsterRarity",
-   "OmenOnChaosSuffix",
    "OmenOnDeathPreventExpLoss",
    "OmenOnExaltAddPrefixes",
    "OmenOnExaltAddSuffixes"
   ],
-  "latestHour": 1794646800
+  "latestHour": 1794675600
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
