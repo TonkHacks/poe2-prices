@@ -1,50 +1,52 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-13T19:43:25+00:00",
+ "generatedAt": "2026-11-14T01:27:26+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   },
   {
    "name": "Hardcore",
    "slug": "hardcore",
    "file": "hardcore.json",
-   "updatedAt": "2026-11-13T19:43:25+00:00"
+   "updatedAt": "2026-11-14T01:27:26+00:00"
   }
  ],
  "exchange": {
-  "named": 194,
-  "skipped": 266,
+  "named": 207,
+  "skipped": 289,
   "unknownSample": [
    "AbyssPinnacleKey",
+   "BurningMonolithKey1",
    "BurningMonolithKey3",
+   "CarvedMischief",
    "CarvedTenacity",
    "CurrencyAfflictionFragment",
    "CurrencyBreachFragment",
@@ -52,6 +54,7 @@
    "CurrencyRitualBossFragment",
    "CurrencyWildwoodFragment",
    "DeliriumPinnacleKey",
+   "EmergentProtection",
    "Expedition2Logbook",
    "Expedition2LogbookMedved",
    "Expedition2LogbookOlroth",
@@ -68,23 +71,20 @@
    "IdolSpecial3",
    "IdolSpecial4",
    "IdolSpecial5",
-   "IdolSpecial6",
+   "IdolSpecial7",
    "IdolStoat",
    "MothersoulEgg",
+   "MothersoulEmbryo",
    "OmenOnAbyssGuarenteeLichTypeMod1",
    "OmenOnAbyssGuarenteeLichTypeMod2",
    "OmenOnAbyssGuarenteeLichTypeMod3",
    "OmenOnChaosLowestLevelMod",
    "OmenOnChaosMapMonsterRarity",
-   "OmenOnChaosSuffix",
    "OmenOnDeathPreventExpLoss",
    "OmenOnExaltAddPrefixes",
-   "OmenOnExaltAddSuffixes",
-   "OmenOnExaltAddTwoMods",
-   "OmenOnLowLifeFullyHeal",
-   "OmenOnLowLifeRecoverCharges"
+   "OmenOnExaltAddSuffixes"
   ],
-  "latestHour": 1794592800
+  "latestHour": 1794614400
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
