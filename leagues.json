@@ -1,54 +1,53 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-15T16:22:59+00:00",
+ "generatedAt": "2026-11-15T22:49:38+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-15T16:22:59+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-15T16:22:59+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-15T16:22:59+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "stale": true,
-   "updatedAt": "2026-11-15T06:34:26+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-15T16:22:59+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   },
   {
    "name": "Hardcore",
    "slug": "hardcore",
    "file": "hardcore.json",
-   "stale": true,
-   "updatedAt": "2026-11-15T06:34:26+00:00"
+   "updatedAt": "2026-11-15T22:49:38+00:00"
   }
  ],
  "exchange": {
-  "named": 227,
-  "skipped": 318,
+  "named": 216,
+  "skipped": 299,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
    "BurningMonolithKey2",
    "BurningMonolithKey3",
+   "CarvedCunning",
    "CarvedMischief",
    "CarvedTenacity",
    "CurrencyAfflictionFragment",
@@ -81,12 +80,11 @@
    "OmenOnAbyssGuarenteeLichTypeMod1",
    "OmenOnAbyssGuarenteeLichTypeMod2",
    "OmenOnAbyssGuarenteeLichTypeMod3",
-   "OmenOnChaosLowestLevelMod",
-   "OmenOnChaosMapMonsterRarity",
-   "OmenOnChaosPrefix",
-   "OmenOnDeathPreventExpLoss"
+   "OmenOnAnnulRemovePrefixes",
+   "OmenOnAnnulRemoveSuffixes",
+   "OmenOnChaosLowestLevelMod"
   ],
-  "latestHour": 1794754800
+  "latestHour": 1794776400
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
