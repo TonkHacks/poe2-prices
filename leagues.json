@@ -1,58 +1,61 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-16T06:32:08+00:00",
+ "generatedAt": "2026-11-16T19:37:25+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-16T06:32:08+00:00"
+   "updatedAt": "2026-11-16T19:37:25+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-16T06:32:08+00:00"
+   "updatedAt": "2026-11-16T19:37:25+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-16T06:32:08+00:00"
+   "updatedAt": "2026-11-16T19:37:25+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
+   "stale": true,
    "updatedAt": "2026-11-16T06:32:08+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-16T06:32:08+00:00"
+   "updatedAt": "2026-11-16T19:37:25+00:00"
   },
   {
    "name": "Hardcore",
    "slug": "hardcore",
    "file": "hardcore.json",
-   "updatedAt": "2026-11-16T06:32:08+00:00"
+   "updatedAt": "2026-11-16T19:37:25+00:00"
   }
  ],
  "exchange": {
-  "named": 212,
-  "skipped": 294,
+  "named": 229,
+  "skipped": 322,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
+   "BurningMonolithKey2",
    "BurningMonolithKey3",
-   "CarvedCunning",
+   "CarvedMischief",
    "CarvedTenacity",
    "CurrencyAfflictionFragment",
    "CurrencyIncursionVaalIncubator",
    "CurrencyRitualBossFragment",
    "CurrencyWildwoodFragment",
    "DeliriumPinnacleKey",
+   "EmergentInstinct",
    "EmergentProtection",
    "Expedition2Logbook",
    "Expedition2LogbookMedved",
@@ -64,7 +67,6 @@
    "IdolCorrupted2",
    "IdolCorrupted3",
    "IdolHawk",
-   "IdolPanther",
    "IdolSpecial1",
    "IdolSpecial2",
    "IdolSpecial3",
@@ -81,10 +83,9 @@
    "OmenOnChaosMapMonsterRarity",
    "OmenOnChaosPrefix",
    "OmenOnChaosSuffix",
-   "OmenOnDeathPreventExpLoss",
-   "OmenOnExaltAddPrefixes"
+   "OmenOnDeathPreventExpLoss"
   ],
-  "latestHour": 1794805200
+  "latestHour": 1794852000
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
