@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-20T11:42:03+00:00",
+ "generatedAt": "2026-11-20T20:23:19+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-20T11:42:03+00:00"
+   "updatedAt": "2026-11-20T20:23:19+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-20T11:42:03+00:00"
+   "updatedAt": "2026-11-20T20:23:19+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-20T11:42:03+00:00"
+   "updatedAt": "2026-11-20T20:23:19+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "updatedAt": "2026-11-20T11:42:03+00:00"
+   "updatedAt": "2026-11-20T20:23:19+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-20T11:42:03+00:00"
+   "updatedAt": "2026-11-20T20:23:19+00:00"
   },
   {
    "name": "Hardcore",
@@ -41,19 +41,20 @@
   }
  ],
  "exchange": {
-  "named": 208,
-  "skipped": 277,
+  "named": 222,
+  "skipped": 306,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
    "BurningMonolithKey2",
    "BurningMonolithKey3",
+   "CarvedTenacity",
    "CurrencyAfflictionFragment",
+   "CurrencyBreachFragment",
    "CurrencyIncursionVaalIncubator",
    "CurrencyRitualBossFragment",
    "CurrencyWildwoodFragment",
    "DeliriumPinnacleKey",
-   "EmergentInstinct",
    "Expedition2Logbook",
    "Expedition2LogbookMedved",
    "Expedition2LogbookOlroth",
@@ -82,10 +83,9 @@
    "OmenOnChaosMapMonsterRarity",
    "OmenOnDeathPreventExpLoss",
    "OmenOnExaltAddPrefixes",
-   "OmenOnExaltAddSuffixes",
-   "OmenOnExaltAddTwoMods"
+   "OmenOnExaltAddSuffixes"
   ],
-  "latestHour": 1795168800
+  "latestHour": 1795201200
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
