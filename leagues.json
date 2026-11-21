@@ -1,37 +1,36 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T11:03:57+00:00",
+ "generatedAt": "2026-11-21T19:17:48+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-21T11:03:57+00:00"
+   "updatedAt": "2026-11-21T19:17:48+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-21T11:03:57+00:00"
+   "updatedAt": "2026-11-21T19:17:48+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-21T11:03:57+00:00"
+   "updatedAt": "2026-11-21T19:17:48+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "stale": true,
-   "updatedAt": "2026-11-21T02:17:23+00:00"
+   "updatedAt": "2026-11-21T19:17:48+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-21T11:03:57+00:00"
+   "updatedAt": "2026-11-21T19:17:48+00:00"
   },
   {
    "name": "Hardcore",
@@ -42,19 +41,19 @@
   }
  ],
  "exchange": {
-  "named": 218,
-  "skipped": 303,
+  "named": 220,
+  "skipped": 304,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
    "BurningMonolithKey2",
    "BurningMonolithKey3",
-   "CarvedTenacity",
    "CurrencyAfflictionFragment",
+   "CurrencyBreachFragment",
+   "CurrencyIncursionVaalIncubator",
    "CurrencyRitualBossFragment",
    "CurrencyWildwoodFragment",
    "DeliriumPinnacleKey",
-   "EmergentProtection",
    "Expedition2Logbook",
    "Expedition2LogbookMedved",
    "Expedition2LogbookOlroth",
@@ -62,17 +61,14 @@
    "Expedition2LogbookVorana",
    "ExpeditionPinnacleKey",
    "IdolCorrupted1",
-   "IdolCorrupted2",
    "IdolCorrupted3",
    "IdolHawk",
    "IdolPanther",
    "IdolSpecial1",
    "IdolSpecial2",
    "IdolSpecial3",
-   "IdolSpecial4",
    "IdolSpecial5",
    "IdolSpecial6",
-   "IdolSpecial7",
    "IdolStoat",
    "MothersoulEgg",
    "MothersoulEmbryo",
@@ -84,9 +80,12 @@
    "OmenOnDeathPreventExpLoss",
    "OmenOnExaltAddPrefixes",
    "OmenOnExaltAddSuffixes",
-   "OmenOnExaltAddTwoMods"
+   "OmenOnExaltAddTwoMods",
+   "OmenOnLowLifeFullyHeal",
+   "OmenOnLowLifeRecoverCharges",
+   "OmenRogueExileSummonsPartyMember"
   ],
-  "latestHour": 1795255200
+  "latestHour": 1795284000
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
