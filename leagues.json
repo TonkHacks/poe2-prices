@@ -1,77 +1,78 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-27T12:23:33+00:00",
+ "generatedAt": "2026-11-27T23:28:08+00:00",
  "leagues": [
   {
    "name": "Forbidden Rites",
    "slug": "forbidden-rites",
    "file": "forbidden-rites.json",
-   "updatedAt": "2026-11-27T12:23:33+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   },
   {
    "name": "Runes of Aldur",
    "slug": "runes-of-aldur",
    "file": "runes-of-aldur.json",
-   "updatedAt": "2026-11-27T12:23:33+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   },
   {
    "name": "HC Forbidden Rites",
    "slug": "hc-forbidden-rites",
    "file": "hc-forbidden-rites.json",
-   "updatedAt": "2026-11-27T12:23:33+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   },
   {
    "name": "HC Runes of Aldur",
    "slug": "hc-runes-of-aldur",
    "file": "hc-runes-of-aldur.json",
-   "stale": true,
-   "updatedAt": "2026-11-27T01:44:40+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   },
   {
    "name": "Standard",
    "slug": "standard",
    "file": "standard.json",
-   "updatedAt": "2026-11-27T12:23:33+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   },
   {
    "name": "Hardcore",
    "slug": "hardcore",
    "file": "hardcore.json",
-   "updatedAt": "2026-11-27T12:23:33+00:00"
+   "updatedAt": "2026-11-27T23:28:08+00:00"
   }
  ],
  "exchange": {
-  "named": 203,
-  "skipped": 282,
+  "named": 226,
+  "skipped": 294,
   "unknownSample": [
    "AbyssPinnacleKey",
    "BurningMonolithKey1",
    "BurningMonolithKey2",
    "BurningMonolithKey3",
+   "CarvedMischief",
    "CurrencyAfflictionFragment",
    "CurrencyBreachFragment",
+   "CurrencyIncursionVaalIncubator",
    "CurrencyRitualBossFragment",
    "CurrencyWildwoodFragment",
    "DeliriumPinnacleKey",
-   "EmergentProtection",
    "Expedition2Logbook",
    "Expedition2LogbookMedved",
    "Expedition2LogbookOlroth",
    "Expedition2LogbookUhtred",
    "Expedition2LogbookVorana",
+   "ExpeditionPinnacleKey",
    "IdolCorrupted1",
    "IdolCorrupted2",
    "IdolCorrupted3",
    "IdolHawk",
    "IdolPanther",
    "IdolSpecial1",
-   "IdolSpecial2",
    "IdolSpecial3",
    "IdolSpecial4",
    "IdolSpecial5",
    "IdolSpecial6",
+   "IdolSpecial7",
    "IdolStoat",
-   "MothersoulEmbryo",
+   "MothersoulEgg",
    "OmenOnAbyssGuarenteeLichTypeMod1",
    "OmenOnAbyssGuarenteeLichTypeMod2",
    "OmenOnAbyssGuarenteeLichTypeMod3",
@@ -81,11 +82,9 @@
    "OmenOnExaltAddSuffixes",
    "OmenOnExaltAddTwoMods",
    "OmenOnLowLifeFullyHeal",
-   "OmenOnLowLifeRecoverCharges",
-   "OmenRogueExileSummonsPartyMember",
-   "OmenShrineAdditionalEffect"
+   "OmenOnLowLifeRecoverCharges"
   ],
-  "latestHour": 1795777200
+  "latestHour": 1795816800
  },
  "notice": "This product isn't affiliated with or endorsed by Grinding Gear Games in any way."
 }
